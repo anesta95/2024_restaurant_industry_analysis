@@ -1,0 +1,19 @@
+CAGDP9 Real GDP by county and metropolitan area 1
+CAGDP9 Real GDP by county and metropolitan area 1
+Metropolitan Statistical Area
+GeoFips,GeoName,2017-2019
+12060,"Atlanta-Sandy Springs-Alpharetta, GA (Metropolitan Statistical Area)",4.3
+14460,"Boston-Cambridge-Newton, MA-NH (Metropolitan Statistical Area)",4.6
+19100,"Dallas-Fort Worth-Arlington, TX (Metropolitan Statistical Area)",-1.0
+31080,"Los Angeles-Long Beach-Anaheim, CA (Metropolitan Statistical Area)",0.9
+33100,"Miami-Fort Lauderdale-Pompano Beach, FL (Metropolitan Statistical Area)",1.7
+35620,"New York-Newark-Jersey City, NY-NJ-PA (Metropolitan Statistical Area)",5.8
+41740,"San Diego-Chula Vista-Carlsbad, CA (Metropolitan Statistical Area)",0.8
+41860,"San Francisco-Oakland-Berkeley, CA (Metropolitan Statistical Area)",4.9
+45300,"Tampa-St. Petersburg-Clearwater, FL (Metropolitan Statistical Area)",2.1
+46520,"Urban Honolulu, HI (Metropolitan Statistical Area)",5.7
+
+Legend/Footnotes
+1. Real GDP is in thousands of chained 2017 dollars. Industry detail is based on the 2017 North American Industry Classification System (NAICS).
+"  Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget (OMB) bulletin no. 20-01 issued March 6, 2020."
+"  Last updated: December 7, 2023 -- new statistics for 2022, revised statistics for 2017-2021."
